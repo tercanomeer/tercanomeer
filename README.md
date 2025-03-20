@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/tercanomeer/tercanomeer/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Omer Tercan</h1>
-<h3 align="center">A computer engineer student from Turkiye</h3>
+<h3 align="center">A Computer Engineering student from Turkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
